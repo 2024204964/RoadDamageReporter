@@ -205,7 +205,7 @@
             android:id="@+id/githubLink"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="https://github.com/2024286996-spec/RoadDamageReporter.git"
+            android:text="https://github.com/2024204964/RoadDamageReporter"
             android:textSize="16sp"
             android:textStyle="bold"
             android:textColor="#1565C0"
