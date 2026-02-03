@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100190922068",
+    "project_id": "roaddamagereporter",
+    "storage_bucket": "roaddamagereporter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100190922068:android:21d743272a0ebe997914c1",
+        "android_client_info": {
+          "package_name": "com.example.roaddamagereporter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3YFPtFo_NnOi5j3SfiMjHHJu5vff0ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

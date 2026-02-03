@@ -1,0 +1,7 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="yellow">#FFBF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="nav_yellow">#FFBF00</color>
+</resources>
